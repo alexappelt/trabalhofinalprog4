@@ -1,0 +1,27 @@
+{
+  "name": "fipe-carro",
+  "version": "1.0.0",
+  "description": "Tabela fipe com marcas e modelos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GuiBrust/fipe-carro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuiBrust/fipe-carro/issues"
+  },
+  "homepage": "https://github.com/GuiBrust/fipe-carro#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12",
+    "nodemon": "^2.0.15",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.1.6"
+  }
+}
